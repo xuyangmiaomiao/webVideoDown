@@ -7,7 +7,7 @@
 * @GitHub		https://github.com/xuyangmiaomiao/getWebVideoRealDown
 * @email		xuyangmiaomiao@gmail.com
 * @webSite 		http://www.xuyangjie.cn/
-* @time 		2014年9月2日 19:42:37
+* @time 		2014年9月2日 19:58:52
 * @author		许杨淼淼
 */
 error_reporting(0);
